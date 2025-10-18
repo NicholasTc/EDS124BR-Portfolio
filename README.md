@@ -8,3 +8,5 @@ Peer-graded Assignment: Show What You Know: Write and Explain A Program [Visit v
 Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan [Visit video link](https://youtu.be/o72rDvKl5CA)
 
 (Week 3 - Nested Repeats Part 1): Show What You Know: Write and Explain A Program (Mouse Drawing Octagon) [Visit video link](https://youtu.be/DkU-Vep_W4c)
+
+(Week 3 - Nested Repeats Part 2 & Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Monkey Catching Banana Game) [Visit video link](https://youtu.be/nNIALOGIJuY)
