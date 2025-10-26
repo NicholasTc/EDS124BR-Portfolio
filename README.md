@@ -11,4 +11,4 @@ Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan [Visit vide
 
 (Week 3 - Nested Repeats Part 2 & Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Monkey Catching Banana Game) [Visit video link](https://youtu.be/nNIALOGIJuY)
 
-(Week 4 - Events Part 2 & Variables Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Shape Drawing - Triangle, Square, Pentagon) [Visit video link](https://youtu.be/wsMKxuAlvn0)
+(Week 4 - Events Part 2 & Variables Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Shape Drawing - Triangle, Square, Pentagon) [Visit video link](https://youtu.be/7pDEcDpeFEA)
