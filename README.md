@@ -16,3 +16,5 @@ Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan [Visit vide
 (Week 5 - Conditional Loops Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Ball Bouncing Game) [Visit video link](https://youtu.be/xxRqHGoCAtQ)
 
 (Week 6 - If Statements Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Ball Bouncing Game with Target) [Visit video link](https://youtu.be/YGXtFVIPHTY)
+
+(Week 7 - Nested If/Else Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Deciding what the penguin will do) [Visit video link](https://youtu.be/kfBau6rolPA)
