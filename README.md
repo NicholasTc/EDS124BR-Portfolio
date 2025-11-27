@@ -20,3 +20,5 @@ Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan [Visit vide
 (Week 7 - Nested If/Else Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Deciding what the penguin will do) [Visit video link](https://youtu.be/kfBau6rolPA)
 
 (Week 8 - Compound Conditionals Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Treasure Finding Game) [Visit video link](https://youtu.be/RgTbJON52pQ)
+
+(Week 9 - Abstraction Part 1): Peer-graded Assignment: Show What You Know: Write and Explain A Program (Drawing Sun and Flower) [Visit video link](https://youtu.be/c0WtnBLK-wg)
